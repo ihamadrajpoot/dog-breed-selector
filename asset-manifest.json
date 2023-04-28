@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dog-breed-selector/static/css/main.7d5a7c7e.css",
+    "main.js": "/dog-breed-selector/static/js/main.66fe1725.js",
+    "static/js/787.72b767db.chunk.js": "/dog-breed-selector/static/js/787.72b767db.chunk.js",
+    "index.html": "/dog-breed-selector/index.html",
+    "main.7d5a7c7e.css.map": "/dog-breed-selector/static/css/main.7d5a7c7e.css.map",
+    "main.66fe1725.js.map": "/dog-breed-selector/static/js/main.66fe1725.js.map",
+    "787.72b767db.chunk.js.map": "/dog-breed-selector/static/js/787.72b767db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d5a7c7e.css",
+    "static/js/main.66fe1725.js"
+  ]
+}
